@@ -84,26 +84,8 @@ Feature Request
 -------------
 To request for a new feature, create a "new issue" and describe the feature and potential use cases. If something similar already exists, you can upvote the "issue" and contribute to the discussions.
 
-Changelog
--------------
-*   Check the [CHANGELOG](https://github.com/atenreiro/opensquat/blob/master/CHANGELOG) file.
-
 Authors
 -------------
 Project founder
-*   Andre Tenreiro [(LinkedInk)](https://www.linkedin.com/in/andretenreiro/)
-*   [andre@cert.mz](mailto:andre@cert.mz)
-
-Contributors
-*   Please check the contributors page on GitHub
-
-How to help
--------------
-You can help this project in many ways:
-*   Providing your time and coding skills to enhance the project
-*   Build a decent but simple [project webpage](https://opensquat.com)
-*   Provide access to OSINT feeds
-*   Open new issues with new suggestions, ideas, bug report or feature requests
-*   Spread this project within your network
-*   Share your story how have you been using the openSquat and what impact it brought to you
-*   Make a project logo
+*   OperationAnonymous [(LinkedInk)](https://github.com/OperationAnonymous)
+*   Youtube [(LinkedInk)](https://www.youtube.com/channel/UCeqcVSPaOFqXOaPenZ0kpJA)
